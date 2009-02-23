@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<font_color>0xFFFFFF</font_color>
+
+	<!--<bg_gradient_begin>0xDCDDDE</bg_gradient_begin>
+	<bg_gradient_end>0x91989A</bg_gradient_end>-->
+
+	<buttonContainer_width>170</buttonContainer_width>
+	<buttonContainer_height>350</buttonContainer_height>
+	<buttonContainer_x>850</buttonContainer_x>
+	<buttonContainer_y>80</buttonContainer_y>
+	
+	
+	
+	
+</root>
